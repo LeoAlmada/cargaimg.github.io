@@ -1,0 +1,22 @@
+#imageContainer {
+    margin-top: 20px;
+}
+
+.loading {
+    display: none;
+}
+
+#loadImageBtn {
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#loadImageBtn:hover {
+    background-color: #0056b3;
+}
